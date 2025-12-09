@@ -37,9 +37,7 @@
       "frameworks": [],
       "providerShortName": null,
       "signingIdentity": null,
-      "infoPlist": {
-        "NSMicrophoneUsageDescription": "Scribe needs access to your microphone to transcribe audio."
-      }
+      "infoPlist": "Info.plist"
     }
   }
 }
